@@ -1,0 +1,16 @@
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\bin\Debug\net5.0\Vowel or not.exe
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\bin\Debug\net5.0\Vowel or not.deps.json
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\bin\Debug\net5.0\Vowel or not.runtimeconfig.json
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\bin\Debug\net5.0\Vowel or not.runtimeconfig.dev.json
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\bin\Debug\net5.0\Vowel or not.dll
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\bin\Debug\net5.0\Vowel or not.pdb
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\obj\Debug\net5.0\Vowel or not.csproj.AssemblyReference.cache
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\obj\Debug\net5.0\Vowel or not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\obj\Debug\net5.0\Vowel or not.AssemblyInfoInputs.cache
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\obj\Debug\net5.0\Vowel or not.AssemblyInfo.cs
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\obj\Debug\net5.0\Vowel or not.csproj.CoreCompileInputs.cache
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\obj\Debug\net5.0\Vowel or not.dll
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\obj\Debug\net5.0\refint\Vowel or not.dll
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\obj\Debug\net5.0\Vowel or not.pdb
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\obj\Debug\net5.0\Vowel or not.genruntimeconfig.cache
+C:\Users\eg1001\Desktop\.net\Day5\Vowel or not\Vowel or not\obj\Debug\net5.0\ref\Vowel or not.dll

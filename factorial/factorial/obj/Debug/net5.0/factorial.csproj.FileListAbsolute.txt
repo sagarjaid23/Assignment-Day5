@@ -1,0 +1,16 @@
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\bin\Debug\net5.0\factorial.exe
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\bin\Debug\net5.0\factorial.deps.json
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\bin\Debug\net5.0\factorial.runtimeconfig.json
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\bin\Debug\net5.0\factorial.runtimeconfig.dev.json
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\bin\Debug\net5.0\factorial.dll
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\bin\Debug\net5.0\factorial.pdb
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\obj\Debug\net5.0\factorial.csproj.AssemblyReference.cache
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\obj\Debug\net5.0\factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\obj\Debug\net5.0\factorial.AssemblyInfoInputs.cache
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\obj\Debug\net5.0\factorial.AssemblyInfo.cs
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\obj\Debug\net5.0\factorial.csproj.CoreCompileInputs.cache
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\obj\Debug\net5.0\factorial.dll
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\obj\Debug\net5.0\refint\factorial.dll
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\obj\Debug\net5.0\factorial.pdb
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\obj\Debug\net5.0\factorial.genruntimeconfig.cache
+C:\Users\eg1001\Desktop\.net\Day5\factorial\factorial\obj\Debug\net5.0\ref\factorial.dll

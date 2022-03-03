@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reaminder and qu", "reaminder and qu\reaminder and qu.csproj", "{1BA2C348-A1EE-41B5-A11D-5F15CF246871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BA2C348-A1EE-41B5-A11D-5F15CF246871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA2C348-A1EE-41B5-A11D-5F15CF246871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA2C348-A1EE-41B5-A11D-5F15CF246871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA2C348-A1EE-41B5-A11D-5F15CF246871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B0C4A41-432D-45DF-A77F-3401333A576F}
+	EndGlobalSection
+EndGlobal
